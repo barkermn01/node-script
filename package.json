@@ -1,0 +1,23 @@
+{
+  "name": "Node-Scripten",
+  "version": "1.0.0",
+  "description": "Beacon Tracker compiler",
+  "main": "index.js",
+  "author": "Beaconsoft",
+  "license": "MIT",
+  "preferGlobal": true,
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "fs": "0.0.1-security",
+    "node-minify": "^3.1.0",
+    "process": "^0.11.10",
+    "request": "^2.87.0",
+    "request-progress": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-script": "./bin/node-script.js"
+  }
+}
