@@ -1,6 +1,6 @@
 {
   "name": "scripten",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Beacon Tracker compiler",
   "main": "index.js",
   "author": "Beaconsoft",
