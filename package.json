@@ -1,5 +1,5 @@
 {
-  "name": "Node-Scripten",
+  "name": "scripten",
   "version": "1.0.0",
   "description": "Beacon Tracker compiler",
   "main": "index.js",
@@ -19,5 +19,9 @@
   },
   "bin": {
     "node-script": "./bin/node-script.js"
+  },
+  "repository" :  {
+    "type" : "git",
+    "url" : "https://github.com/barkermn01/node-script"
   }
 }
