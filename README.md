@@ -5,7 +5,7 @@ A small terminal system built in node that provide a method of creating or using
 
 ## How to Install
 ```
-npm install scripten
+npm install -g scripten
 ```
 
 ## How to use
